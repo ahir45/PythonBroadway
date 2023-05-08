@@ -12,7 +12,6 @@ while count < 10:
     print(count)
     count += 1
 
-
 # pass ####
 
 # to avoid syntax error if we want to create a function to use it in future
