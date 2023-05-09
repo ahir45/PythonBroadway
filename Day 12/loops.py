@@ -1,9 +1,9 @@
-# vowels = ["a", "e", "i", "o", "u"]
-# for vowel in vowels:
-#     if vowel == "i":
-#         break
-#     print(vowel)
-#     print(1)
+vowels = ["a", "e", "i", "o", "u"]
+for vowel in vowels:
+    if vowel == "i":
+        break
+    print(vowel)
+    print(1)
 
 count = 0
 while count < 10:
