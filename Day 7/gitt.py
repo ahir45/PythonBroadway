@@ -6,7 +6,9 @@
 # git add .  # git add filename
 # git commit -m "<commit message>"
 # git remote add origin <giturl>
-# git push -u origin <branch_name>
+# git push -u origin <branch_name>     # once used -u, we can use only git push from next time
+
+# -u tracks upstream by syncing local and remote branch
 
 
 # clear
@@ -20,7 +22,7 @@
 # ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 # use cmd to generate ssh key using type filename
 
-#### GIT BRANCHING
+#### GIT BRANCHING ####
 
 # git <branch_name>          # creates a new branch
 # git checkout <branch_name>        # jumps (check outs ) to the next branch
